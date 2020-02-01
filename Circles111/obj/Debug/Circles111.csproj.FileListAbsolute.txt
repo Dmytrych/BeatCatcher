@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\Circles111\Circles111\obj\Debug\Circles111.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Circles111\Circles111\obj\Debug\App.g.cs
+C:\Users\1\source\repos\Circles111\Circles111\obj\Debug\Circles111_MarkupCompile.cache
+C:\Users\1\source\repos\Circles111\Circles111\bin\Debug\Circles111.exe.config
+C:\Users\1\source\repos\Circles111\Circles111\bin\Debug\Circles111.exe
+C:\Users\1\source\repos\Circles111\Circles111\bin\Debug\Circles111.pdb
+C:\Users\1\source\repos\Circles111\Circles111\obj\Debug\MainWindow.g.cs
+C:\Users\1\source\repos\Circles111\Circles111\obj\Debug\MainWindow.baml
+C:\Users\1\source\repos\Circles111\Circles111\obj\Debug\Circles111.g.resources
+C:\Users\1\source\repos\Circles111\Circles111\obj\Debug\Circles111.Properties.Resources.resources
+C:\Users\1\source\repos\Circles111\Circles111\obj\Debug\Circles111.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Circles111\Circles111\obj\Debug\Circles111.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Circles111\Circles111\obj\Debug\Circles111.exe
+C:\Users\1\source\repos\Circles111\Circles111\obj\Debug\Circles111.pdb
